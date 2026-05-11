@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364) !important;
+    min-height: 100vh;
+}
+
+h1 {
+    color: #00d4ff !important;
+    font-weight: bold;
+}
+
+.card {
+
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(161, 106, 177, 0.833);
+    background: linear-gradient(to bottom, #e0c3fc 0%, #8ec5fc 100%);
+
+}
+
+#contador {
+
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.btn {
+
+    width: fit-content !important;
+    padding: 6px 14px !important;
+    font-size: 14px !important;
+    border-radius: 8px !important;
+    margin-top: 10px !important;
+
+}
+
+.form-control {
+
+    width: 500px !important;
+
+}
